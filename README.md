@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+try this: (https://todolist-six-lovat.vercel.app)
+
 # vue-todo
 
 This template should help get you started developing with Vue 3 in Vite.
