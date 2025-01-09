@@ -48,4 +48,15 @@ p {
   padding: 20px;
   font-size: 25px;
 }
+button{
+  cursor: pointer;
+}
+#but-complete:hover{
+ color: rgb(202, 13, 13);
+ font-weight: bold;
+}
+#but-delete:hover{
+  color: green;
+  font-weight: bold;
+}
 </style>

@@ -52,4 +52,13 @@ div {
   margin-top: 10px;
   font-size: 1em;
 }
+button{
+  cursor: pointer;
+}
+button:hover{
+  font-weight: bold;
+}
+h1{
+  letter-spacing: 0.5em;
+}
 </style>
