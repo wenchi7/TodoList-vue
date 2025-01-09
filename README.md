@@ -1,4 +1,4 @@
-try this: (https://todolist-six-lovat.vercel.app)
+-> https://todolist-byvue.vercel.app
 
 # vue-todo
 
